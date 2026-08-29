@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FG2QJtqrDsd1cGsfAQdJQSjcLc1/crGdHYqXE1EyBvs=",
+  "Source": "BioReactorApi",
+  "BasePath": "_content/BioReactorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
